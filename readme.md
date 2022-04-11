@@ -1,0 +1,1 @@
+Learn JS with Eric and solve some of the Go1 coding challenges
